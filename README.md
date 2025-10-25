@@ -54,3 +54,19 @@ SCENE 4 — KAEL’S REBELLION (06:00–10:00)
 ![1000017503](https://github.com/user-attachments/assets/1d0e5828-523c-4eff-b9a6-31bcd39b1795)
 
 ---
+
+-SCENE 6 — HEAVENFALL (17:00–22:00)
+​SETTING: High above the devastated city, reaching into the lower atmosphere.
+​VISUAL: Both Avatars, Jax (in AETHER FORM) and Kael (as OBLIVION ARCHON), ascend into the sky. Kael's form expands, tearing open a massive, jagged black rift in reality itself, threatening to swallow the city whole. Jax's Aether Form shines even brighter, his power radiating fractal golden light that attempts to seal the rift, a battle of pure cosmic will. Their dual energy attacks collide: a powerful Aether Burst of pure golden light from Jax meets Kael's devastating Null Vector Collapse—a cone of absolute darkness that devours light and matter. The collision creates an expanding white sphere of compressed energy and void. Everything within the sphere seems to stop, frozen in an impossible moment.--
+SCENE 5 — THE AETHER UNLEASHED (10:00–17:00)
+​SETTING: The same devastated urban street.
+​VISUAL: Jax Reyes falls to one knee, overwhelmed by Kael's power. His golden aura sputters. Just as he seems on the verge of collapse, a whisper, the voice of the Aether Sovereign, echoes directly into his mind: "Creation is not mercy... it's choice." Golden sigils begin to spread rapidly across Jax's body, not just his skin, but forming into intricate, glowing geometric armor. Debris around him reverses direction, floating upwards; small, spreading fires unburn themselves and vanish. The AETHER FORM activates, enveloping Jax in luminous, radiant armor, perfectly matching the visual style of your Aether Sovereign in the character card. He rises, now a beacon of order.
+
+![1000017504](https://github.com/user-attachments/assets/b8496826-cee6-4b82-90a0-3267dd2ba43e)
+
+---
+SCENE 6 — HEAVENFALL (17:00–22:00)
+​SETTING: High above the devastated city, reaching into the lower atmosphere.
+​VISUAL: Both Avatars, Jax (in AETHER FORM) and Kael (as OBLIVION ARCHON), ascend into the sky. Kael's form expands, tearing open a massive, jagged black rift in reality itself, threatening to swallow the city whole. Jax's Aether Form shines even brighter, his power radiating fractal golden light that attempts to seal the rift, a battle of pure cosmic will. Their dual energy attacks collide: a powerful Aether Burst of pure golden light from Jax meets Kael's devastating Null Vector Collapse—a cone of absolute darkness that devours light and matter. The collision creates an expanding white sphere of compressed energy and void. Everything within the sphere seems to stop, frozen in an impossible moment.
+
+![1000017505](https://github.com/user-attachments/assets/44f24474-fa36-4a1b-a5e4-010a44571a8f)
