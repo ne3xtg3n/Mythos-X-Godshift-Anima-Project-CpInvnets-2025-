@@ -77,3 +77,79 @@ POST-CREDIT SEQUENCE, setting up future mysteries.
 ​VISUAL: Dr. Banner, battered but alive, watches the distant, chaotic energy signature of the collapsing white sphere on a cracked monitor. A small fragment of raw, glowing energy (a mixture of gold and violet) drifts from the aftermath and comes to rest gently in his hand. He examines it with a mixture of awe and scientific curiosity. On his other monitors, now barely functional, cryptic text flickers into existence: WELLSPRING_PROTOCOL_01 — ACTIVE.
 
 ![1000017506](https://github.com/user-attachments/assets/d15e8411-b2e5-4aac-8669-9beaaf1516c8)
+
+
+🌀 EPISODE 1 — HEAVENFALL (FULL VOICE ACTOR SCRIPT)
+Path: /docs/episodes/ep01_heavenfall/02_story_full_script.md
+🎬 TITLE CARD
+MYTHOS X : GODSHIFT — EPISODE 1: “HEAVENFALL”
+(00:00-00:20)
+NARRATOR (DBZ Style - Cp tone, over cosmic nebula visuals, with an epic, resonant voice):
+“In a universe older than time, where creation and destruction wage eternal war, two gods awaken from slumber. Aether — the radiant Architect of Order. Oblivion — the shadow that unmakes all truth. Their battle rages across dimensions… until the impact, the Mythquake, tears through Earth itself. Three humans feel the aftershock. One of strength. One of intellect. One of darkness. From this moment forward, humanity will never be the same. The age of the GODSHIFT begins…”
+(SOUND: Cosmic reverberation fades as logo hits.)
+🧩 SCENE 1 — THE MYTHQUAKE CLASH
+(00:20–01:20)
+SETTING: Outer space, high above Earth’s atmosphere. The cosmos bends under golden and violet energy storms. Two titanic, ethereal figures, one blazing gold (AETHER SOVEREIGN) and one shadowy violet (OBLIVION ARCHON), collide with unimaginable force. Their fists meet, generating a shockwave that distorts the fabric of space-time around Earth. The planet below trembles violently.
+(VISUAL: Refer to Image #1)
+AETHER SOVEREIGN (Voice: Deep, resonant, calm, unwavering, but with immense power):
+“Creation demands balance.”
+OBLIVION ARCHON (Voice: Low, guttural, echoing, a blend of ancient malice and cold logic):
+“Then let balance die.”
+(SOUND: CRACKING of reality, DEAFENING THUD as fists meet, followed by a COSMIC ROAR that ripples into silence. Planet trembles; sky fractures into hexagonal light patterns.)
+(TRANSITION: Fade to the sound of a human heartbeat, distant and rhythmic.)
+⚡ SCENE 2 — THE AFTERSHOCK
+(01:20–03:00)
+SETTING: Earth – various locations: bustling city streets, high-tech research labs, grimy industrial factories. Time seems to stretch and distort. Cars hover inches off the ground. Streetlights flicker violently, casting an unnatural violet glow over everything. Wind freezes mid-motion. People freeze, looking up at the fracturing sky.
+(VISUAL: Refer to Image #2)
+(SOUND: Heartbeat intensifies, then mixes with a high-pitched COSMIC HUM. Distant SCREAMS. Glass shatters in slow motion. Electronic devices sputter and die.)
+NARRATOR (Voice: Urgent, like a sports announcer during a critical play):
+“When gods clash, mortals tremble. But some… hear the call.”
+💥 SCENE 3 — THE AWAKENING BELOW
+(03:00–06:00)
+SETTING: Earth – simultaneous close-ups on three distinct individuals.
+VISUAL:
+ * JAX REYES: Mid-punch in a gritty boxing gym. Gold sparks crawl up his arms. He accidentally drops his sparring partner.
+ * DR. MICHAEL BANNER: Hunched over flickering monitors in his lab. Blue glyphs rotate around his head. He clutches his head.
+ * KAEL DRAYVEN: Underneath a vehicle in a junkyard garage. His shadow flickers with violet flame. His eyes glow purple. He feels a profound sense of emptiness.
+(VISUAL: Refer to Image #3)
+(SOUND: POUNDING heartbeat, now accompanied by a low, internal HUM for each character, distinct in tone. For Jax, a CRACKLE of energy. For Banner, a high-frequency WHINE of information overload. For Kael, a low, unsettling PULSE.)
+DR. MICHAEL BANNER (Voice: Strained, rapid, bordering on manic excitement):
+“This… this pattern—it’s language. A divine frequency.”
+🔥 SCENE 4 — KAEL’S REBELLION
+(06:00–10:00)
+SETTING: A desolate urban street, fractured and smoking from the Mythquake. Kael Drayven stands amidst spreading destruction, a violet aura tearing up the asphalt. His voice is overlaid with the cold, resonant tone of the Oblivion Archon. Jax Reyes arrives, his own gold aura flickering brightly, his expression of shock and dread. Their eyes lock. The ground between them shatters. From above, a faint, luminous golden light permeates the sky.
+(VISUAL: Refer to Image #4)
+(SOUND: GROWLING of Kael’s power, CRACKING of earth. Jax’s energy HUMS. Distant SCREAMS from civilians. Aether’s energy glows from above — a faint, majestic CHIME.)
+KAEL DRAYVEN / OBLIVION ARCHON (Voice: Kael's usual tone, but deeper, distorted, with Archon's echo always present):
+“You protect them? They’re parasites. Let the gods decide.”
+(SOUND: ENERGIES COLLIDE with a SHOCKWAVE. Clouds clear. Distant birds vanish.)
+🌠 SCENE 5 — THE AETHER UNLEASHED
+(10:00–17:00)
+SETTING: The same devastated urban street. Jax Reyes falls to one knee, his aura sputtering. A whisper, the voice of the Aether Sovereign, echoes into his mind. Golden sigils spread across Jax's body, forming intricate, glowing geometric armor. Debris reverses direction; fires unburn. The AETHER FORM activates, enveloping Jax in luminous armor. He rises, a beacon of order.
+(VISUAL: Refer to Image #5)
+(SOUND: Jax’s ragged BREATHS. Aether Sovereign’s voice is a soft, deep whisper, ethereal but clear. CLINKING of armor forming. WHOOSHING sound of debris reversing. FIRES SIZZLE then SILENCE. A growing, powerful HUM from Jax.)
+AETHER SOVEREIGN (Voice: Soft, but commanding, ethereal):
+“Creation is not mercy... it’s choice.”
+JAX REYES (Voice: Strained, but with newfound conviction and power):
+“Then my choice is this—live!”
+(SOUND: POWERFUL SHOCKWAVE erupts from Jax, pushing Kael back miles through the city, accompanied by a RESONANT CHIME. Distant EXPLOSIONS of Kael’s landing.)
+🌌 SCENE 6 — HEAVENFALL
+(17:00–22:00)
+SETTING: High above the devastated city, reaching into the lower atmosphere. Both Avatars, Jax (in AETHER FORM) and Kael (as OBLIVION ARCHON), ascend. Kael tears open a massive black rift. Jax's Aether Form radiates fractal golden light, trying to seal the rift. Their dual energy attacks collide: Aether Burst vs Null Vector Collapse. The collision creates an expanding white sphere. Everything within the sphere seems to stop.
+(VISUAL: Refer to Image #6)
+(SOUND: ROARING of Kael’s rift. Jax’s power HUMS with celestial force. POWERFUL ENERGY CHARGES. A DEAFENING CLASH as attacks meet, then a growing, high-pitched WHINE as the white sphere forms, sucking all sound into a momentary SILENCE. Distant, cracking sounds. The MOON CRACKS.)
+NARRATOR (Voice: Solemn, impactful):
+“When gods fall… humanity rises.”
+(SOUND: Fading cosmic reverberation.)
+END TITLE:
+MYTHOS X : GODSHIFT — “HEAVENFALL”
+🌑 POST-CREDIT SEQUENCE
+(00:40)
+SETTING: Dr. Banner's ruined, makeshift lab, a desolate cityscape in the background.
+VISUAL: Dr. Banner, battered but alive, watches the distant, chaotic energy signature of the collapsing white sphere on a cracked monitor. A small fragment of raw, glowing energy drifts from the aftermath and comes to rest gently in his hand. On his monitors, cryptic text flickers: WELLSPRING_PROTOCOL_01 — ACTIVE.
+(VISUAL: Refer to Image #7)
+(SOUND: Distant SIRENS. Cracked monitor HUMS. A faint, almost musical CHIME as the energy fragment lands in Banner’s hand. The TEXT ON SCREEN is accompanied by subtle ELECTRONIC BEEPS.)
+DR. MICHAEL BANNER (Voice: Quiet, awestruck, a scientific curiosity overriding his fatigue):
+“Wellspring… Protocol… Active.”
+(SOUND: Final, lingering HUM of the energy fragment, then FADE TO BLACK.)
+
