@@ -70,3 +70,10 @@ SCENE 6 — HEAVENFALL (17:00–22:00)
 ​VISUAL: Both Avatars, Jax (in AETHER FORM) and Kael (as OBLIVION ARCHON), ascend into the sky. Kael's form expands, tearing open a massive, jagged black rift in reality itself, threatening to swallow the city whole. Jax's Aether Form shines even brighter, his power radiating fractal golden light that attempts to seal the rift, a battle of pure cosmic will. Their dual energy attacks collide: a powerful Aether Burst of pure golden light from Jax meets Kael's devastating Null Vector Collapse—a cone of absolute darkness that devours light and matter. The collision creates an expanding white sphere of compressed energy and void. Everything within the sphere seems to stop, frozen in an impossible moment.
 
 ![1000017505](https://github.com/user-attachments/assets/44f24474-fa36-4a1b-a5e4-010a44571a8f)
+
+POST-CREDIT SEQUENCE, setting up future mysteries.
+​🌑 POST-CREDIT SEQUENCE
+​SETTING: Dr. Banner's ruined, makeshift lab, a desolate cityscape in the background.
+​VISUAL: Dr. Banner, battered but alive, watches the distant, chaotic energy signature of the collapsing white sphere on a cracked monitor. A small fragment of raw, glowing energy (a mixture of gold and violet) drifts from the aftermath and comes to rest gently in his hand. He examines it with a mixture of awe and scientific curiosity. On his other monitors, now barely functional, cryptic text flickers into existence: WELLSPRING_PROTOCOL_01 — ACTIVE.
+
+![1000017506](https://github.com/user-attachments/assets/d15e8411-b2e5-4aac-8669-9beaaf1516c8)
