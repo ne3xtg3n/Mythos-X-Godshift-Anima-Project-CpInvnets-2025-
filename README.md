@@ -41,5 +41,16 @@ SCENE 3 — THE AWAKENING BELOW (03:00–06:00)
 ​KAEL DRAYVEN: Underneath a broken-down vehicle in a desolate junkyard garage, covered in grease. As the violet energy ripples, his shadow seems to detach and flicker with an ominous violet flame. His eyes briefly glow a deep, unsettling purple. He feels a sudden, profound sense of emptiness, a pull towards unraveling.
 
 ![1000017495](https://github.com/user-attachments/assets/2c5f68cb-f222-477d-bbae-27d02958fc62)
+
 ![1000017497](https://github.com/user-attachments/assets/36b4b660-a18a-402e-a0a2-8d9155e70e64)
 
+---
+
+
+SCENE 4 — KAEL’S REBELLION (06:00–10:00)
+​SETTING: A desolate urban street, fractured and smoking from the Mythquake.
+​VISUAL: Kael Drayven stands amidst spreading destruction. A powerful violet aura tears up the asphalt around him, consuming cars and debris into swirling particles. His voice, now deeper and echoing, is overlaid with the cold, resonant tone of the Oblivion Archon. He is no longer himself. Jax Reyes arrives, his own gold aura flickering brightly around him, his expression one of shock and dawning dread. Their eyes lock. The ground between them shatters as a barely contained energy ripples. From above, a faint, luminous golden light permeates the sky, subtly opposing the violet.
+
+![1000017503](https://github.com/user-attachments/assets/1d0e5828-523c-4eff-b9a6-31bcd39b1795)
+
+---
