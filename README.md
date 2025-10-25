@@ -41,4 +41,5 @@ SCENE 3 — THE AWAKENING BELOW (03:00–06:00)
 ​KAEL DRAYVEN: Underneath a broken-down vehicle in a desolate junkyard garage, covered in grease. As the violet energy ripples, his shadow seems to detach and flicker with an ominous violet flame. His eyes briefly glow a deep, unsettling purple. He feels a sudden, profound sense of emptiness, a pull towards unraveling.
 
 ![1000017495](https://github.com/user-attachments/assets/2c5f68cb-f222-477d-bbae-27d02958fc62)
+![1000017497](https://github.com/user-attachments/assets/36b4b660-a18a-402e-a0a2-8d9155e70e64)
 
