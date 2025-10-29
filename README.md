@@ -2,7 +2,6 @@
 ## **Official GitHub Repository – Master Edition**  
 *Rewritten, aligned, expanded, and elevated to world-class anime excellence. All scenes now have generated images matching character designs from studied originals. Image prompts added where missing or needed for consistency and generation.*  
 **Christopher Perry – October 29, 2025**
-![1000017841](https://github.com/user-attachments/assets/19302dd6-0f5c-40df-aee3-74b4351c0d0d)
 
 
 
@@ -59,7 +58,7 @@ MythosX-Godshift/
 | **Mirrorgon (Glass Avatar)** | Reflective Destroyer | Shatter order | Unknown god | Male, 30s, molten glass body, reflective surfaces, cold expression (new, generated to fit theme) |
 
 [Generated Character Chart]  
-![Character Bible Chart](https://i.imgur.com/placeholder-character-chart-v2.png)  # Generated prompt: Anime style chart with portraits: Cassian (long silver hair gold armor), Lorcan (spiky hair violet armor), Jax (Latino boxer gold aura), Kael (dreads violet scar), Banner (glasses blue glyphs), Mia (athletic champion), Sarah (pigtails child), Rico (rugged homeless), Tempestia (female lightning armor), Mirrorgon (male molten glass).
+![1000017841](https://github.com/user-attachments/assets/163125a8-f3fc-4c85-bdd3-ce3fd71f698e)
 
 ---
 
@@ -76,7 +75,9 @@ In a multi-universal realm, gods of creation and destruction clash, fracturing r
 
 *The majestic floating city of Aetheria gleams in eternal light, spires of crystalline gold piercing endless clouds. Power hums like currency in the air. CASSIAN (golden-armored, agile warrior with light-speed grace, heroic like a proto-Jax) dashes through the sky, fists blazing with pure luminous energy. LORCAN (shadow-clad, massive build with unshakable force, dark and prideful like a proto-Kael) stands firm, his form rippling with violet entropy. This is a Mythquake drill—a ritual clash of rivals. But tension crackles like a live wire; Lorcan's eyes burn with contempt for the rules binding their power.*
 
-![Mythquake Drill](https://github.com/user-attachments/assets/b6c4341c-c6a4-4d4f-b418-29ece43f9bea) # Prompt: Anime style, golden-armored agile warrior (long silver hair, blue eyes) clashing with shadow-clad massive warrior (spiky hair, red eyes) in floating city, gold vs violet energy, hexagonal cloud fractures.
+
+
+
 
 **(SOUND: Whistling wind from Cassian's speed, deep rumbles from Lorcan's impacts. Cosmic thunder echoes with each clash. Epic orchestral build.)**
 
