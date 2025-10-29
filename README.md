@@ -1,6 +1,4 @@
 # Mythos X: Godshift  
-## **Official GitHub Repository – Master Edition**  
-*Rewritten, aligned, expanded, and elevated to world-class anime excellence. All scenes now have generated images matching character designs from studied originals. Image prompts added where missing or needed for consistency and generation.*  
 **Christopher Perry – October 29, 2025**
 
 
@@ -20,6 +18,8 @@ MythosX-Godshift/
 ├── 01_Heavenfall.md
 ├── 02_Emerald_Cage.md
 ├── 03_God_Battle.md
+├── 04_Rumble of the Gods / God's Fight
+├── 05_Gods Fight Part1-2
 ├── Character_Bible.md
 ├── Lore_Bible.md
 ├── Assets/ (All images embedded or linked)
@@ -102,7 +102,7 @@ In a multi-universal realm, gods of creation and destruction clash, fracturing r
 
 *ARCHONIA (ancient, regal Archon of Aetheria, wise and commanding) stands in the glowing heart of the city, surrounded by holographic energy maps. She feels the tremor in her bones— this is no drill; it's a rupture in reality. Far below, in the suppressed world, ancient powers stir: The Awakening Below. Her hand raises, sending a silent alarm to the highest echelons. The chamber shakes slightly, lights flickering violet-gold.*
 
-![Archonia's Alarm](https://github.com/user-attachments/assets/b0560c95-4368-489c-bdfd-8be051e05554) # Prompt: Anime style, ancient regal blue-skinned woman with braided hair in glowing control room, hand raised sending alarm, violet-gold lights flickering, urgent expression.
+![Archonia's Alarm]![1000017861](https://github.com/user-attachments/assets/e97d8b40-9630-425b-8327-db8b74e382c0)
 
 **(SOUND: Alarms blare subtly, core thrumming intensifies. Ethereal chimes signal the alert.)**
 
@@ -124,8 +124,9 @@ In a multi-universal realm, gods of creation and destruction clash, fracturing r
 **EXT. AETHERIA SKYLINE - IMMEDIATELY AFTER (06:00–10:00)**  
 
 *Lorcan declares his rebellion, shattering the peace. He turns from Cassian, facing the churning darkness below the city. His aura flares violet, shadows coiling like unbreakable chains. Cassian reaches out, but Lorcan shrugs him off with prideful disdain.*
+![1000017862](https://github.com/user-attachments/assets/b8de0f2f-dcac-4c61-bba8-d68a523e3ac1)
 
-![Lorcan's Declaration](https://github.com/user-attachments/assets/5da769c1-f2cf-4731-98a5-efde73de577d) # Prompt: Anime style, prideful shadow-clad warrior (spiky hair, red eyes) turning from golden one, violet aura flaring, churning darkness below, dramatic rebellion pose.
+![Lorcan's Declaration](https://github.com/user-attachments/assets/5da769c1-f2cf-4731-98a5-efde73de577d) # SCENE  Anime style, prideful shadow-clad warrior (spiky hair, red eyes) turning from golden one, violet aura flaring, churning darkness below, dramatic rebellion pose.
 
 **(SOUND: Dramatic swell—Lorcan's growl builds to a roar. City alarms wail in the background.)**
 
@@ -136,8 +137,13 @@ In a multi-universal realm, gods of creation and destruction clash, fracturing r
 “Lorcan, wait! This tremor—it's a sign. Rebelling now could doom us all!”  
 
 *Lorcan ignores him, plunging toward the city's energy main—a glowing conduit of raw cosmic power. With a guttural shout, he rips the seals from his own power core, hand diving into the main. He consumes it, body reshaping in a terrifying surge.*
+![1000017859](https://github.com/user-attachments/assets/961e78e9-8570-4e19-956c-27048c33868e)
 
-![Power Consumption](https://github.com/user-attachments/assets/7f43ae13-859f-4a09-8f09-69746243b929) # Prompt: Anime style, massive warrior plunging hand into cosmic conduit, violet surge transforming him, terrifying spectacle, body bulking with shadow armor.
+![1000017860](https://github.com/user-attachments/assets/013a665e-6fb6-4bf4-8346-ededbc363021)
+
+
+
+![Power Consumption](https://github.com/user-attachments/assets/7f43ae13-859f-4a09-8f09-69746243b929) # Scene: Anime style, massive warrior plunging hand into cosmic conduit, violet surge transforming him, terrifying spectacle, body bulking with shadow armor.
 
 **(SOUND: Violent energy whoosh, crackling overload. Lorcan's agonized roar turns triumphant.)**
 
@@ -150,7 +156,9 @@ In a multi-universal realm, gods of creation and destruction clash, fracturing r
 
 **EXT. AETHERIA - DESCENT BEGINS (10:00–14:00)**  
 
-*Lorcan’s greed tears Aetheria from its anchor. The city lurches, spires crumbling as it begins a slow, catastrophic descent—Heavenfall. Cassian watches in horror, the floating sanctuary now plummeting toward the world below. Alarms blare; gods and guardians scramble.*
+*Lorcan’s greed tears Aetheria from its anchor. The city lurches, spires crumbling as it begins a slow, catastrophic descent—Heavenfall. Cassian watches in horror, the floating sanctuary now plummeting toward the Hidden worlds and Universe below. Alarms blare; gods and guardians scramble.*
+
+![1000017846](https://github.com/user-attachments/assets/1a55c7e7-48bf-4c90-baaf-51a9e9d474b7)
 
 ![Heavenfall Descent](https://github.com/user-attachments/assets/bcc5a776-d575-4d8d-976d-5490d90028cf) # Prompt: Anime style, floating city lurching, spires crumbling, golden warrior horrified, plummeting toward world below, ominous descent.
 
@@ -173,7 +181,7 @@ In a multi-universal realm, gods of creation and destruction clash, fracturing r
 
 *The only salvation: the Wellspring—an ancient energy sink, dormant for millennia. Activating it means draining the overload, but the surge is lethal. Archonia moves to the rusty controls, hand glowing.*
 
-![Wellspring Controls](https://github.com/user-attachments/assets/0dd735a5-8615-434a-b5eb-8f75766b24b8) # Prompt: Anime style, Archonia at rusty controls in chaotic chamber, hand glowing, alarms blaring, urgent determination.
+![Wellspring Controls]![1000017847](https://github.com/user-attachments/assets/b92fe121-93b4-4937-918f-6ce563fe48dc)Scene Cassian flying to the control room Golden wings out, Archonia at rusty controls in chaotic chamber, hand glowing, alarms blaring, urgent determination.
 
 **(SOUND: Core whining to critical pitch. Tension strings build.)**
 
@@ -185,7 +193,12 @@ In a multi-universal realm, gods of creation and destruction clash, fracturing r
 
 *He plunges hands into the unstable core, merging life-force with the chaos. Golden aura flares, forcing energy down into the Wellspring. Blinding white flash erupts, followed by a deep blue sigh as the Wellspring awakens, consuming the Aether.*
 
-![Cassian's Sacrifice](https://github.com/user-attachments/assets/8ab37dda-ad5b-4765-84c2-7894775d560c) # Prompt: Anime style, Cassian plunging hands into unstable core, golden aura flaring, pained gasp, blue energy chains.
+![Cassian's Sacrifice]![1000017848](https://github.com/user-attachments/assets/2cd3fb21-146a-40de-a3ff-f9e4662c1f4d) 
+
+![1000017744](https://github.com/user-attachments/assets/1003ae2c-ab04-4ae4-9288-7c70b3ced819)
+
+
+# Scene: Anime style, Cassian plunging hands into unstable core, golden aura flaring, pained gasp, blue energy chains.
 
 **(SOUND: Explosive flash, then calming sigh. Cassian's pained gasp.)**
 
@@ -194,7 +207,7 @@ In a multi-universal realm, gods of creation and destruction clash, fracturing r
 
 *The shuddering ceases. Aetheria halts, hovering just above the world—a ruin saved at ultimate cost. Cassian collapses, aura dimming.*
 
-![Wellspring Surge](https://github.com/user-attachments/assets/32dcf4c6-91f6-46bb-a723-0817a50e535f) # Prompt: Anime style, blinding white flash from Wellspring, deep blue energy wave, core stabilizing.
+![Wellspring Surge](<img width="1024" height="1024" alt="1000017849" src="https://github.com/user-attachments/assets/7a90b1b1-94a5-455b-8a09-744da0a49b37" /># Scene: Anime style, blinding white flash from Wellspring, deep blue energy wave, core stabilizing.
 
 **ARCHONIA** (kneeling beside him, voice breaking)  
 “You've saved us... but at what price? Lorcan's free now, carrying the seed of Oblivion this power can not be controled it will consume him and use a Cassian.”  
@@ -204,6 +217,8 @@ In a multi-universal realm, gods of creation and destruction clash, fracturing r
 **EXT. AETHERIA RUINS - RESOLUTION (20:00–22:00)**  
 
 *Cassian, weakened, stares at the stabilized city. Lorcan vanished in the surge, now a volatile god unbound. The dark shift begins—leading to the mythquake in Episode 1.*
+
+![1000017863](https://github.com/user-attachments/assets/6b0b59d8-f3af-471f-a1e4-73ed5a37e3e6)
 
 ![1000017756](https://github.com/user-attachments/assets/6e1c8e83-cbdd-4ccd-a4fa-80a501b9cd86) # Prompt: Anime style, weakened Cassian (fire-blue eyes) staring at hovering ruined city, ethereal hum, post-sacrifice exhaustion.
 
@@ -215,6 +230,7 @@ In a multi-universal realm, gods of creation and destruction clash, fracturing r
 “Heavenfall averted, but the fracture widens. The gods' rivalry spills to the world below—where mortals will rise... or shatter.”  
 
 ![1000017752](https://github.com/user-attachments/assets/90ff4853-a1e7-49ca-b518-5ff18b60d473) # Prompt: Anime style, cosmic afterglow of Heavenfall, scattered god-souls as lights in sky.
+
 
 **FADE OUT.**
 
@@ -230,11 +246,13 @@ In a multi-universal realm, gods of creation and destruction clash, fracturing r
 
 **FADE IN:**
 
+
+
 **EXT. RUINS OF AETHERIA - ETERNAL TWILIGHT (00:00–03:00)**  
 
 *The shattered remnants of Aetheria hover precariously above the mortal world, a ghostly silhouette against fractured skies. Faint hexagonal cracks linger in the ether, remnants of the near-Heavenfall. CASSIAN (now AETHER SOVEREIGN: luminous gold-white form, crystalline and empowered, but scarred from his sacrifice—eyes glowing fire-blue) patrols the ruins, his light-speed grace tempered by weary resolve. He senses a dark pulse growing—Lorcan's return.*
 
-![1000017755](https://github.com/user-attachments/assets/5a8ba82c-272e-406b-a441-ee862c8f65ec) # Prompt: Anime style, Aether Sovereign (luminous gold-white, fire-blue eyes) patrolling ruined floating city, dark pulse building, eternal twilight sky.
+![1000017755](https://github.com/user-attachments/assets/5a8ba82c-272e-406b-a441-ee862c8f65ec) # Scene:, Aether Sovereign (luminous gold-white, fire-blue eyes) patrolling ruined floating city, dark pulse building, eternal twilight sky.
 
 **(SOUND: Eerie wind howls through debris. Subtle violet pulses build. Orchestral tension swells.)**
 
@@ -243,9 +261,12 @@ In a multi-universal realm, gods of creation and destruction clash, fracturing r
 
 *A violet rift tears open in the void. LORCAN (now OBLIVION: massive, spiky violet-black entropy form, unbreakable shadow armor fused with raw chaos—pride amplified to villainous dominance) emerges, aura consuming light. He laughs, a guttural echo shaking the ruins.*
 
-![1000017769](https://github.com/user-attachments/assets/5da3f901-f4c5-4319-8ebc-6a1b962b55be) # Prompt: Anime style, Oblivion (massive spiky violet-black, red eyes) emerging from rift, aura consuming light, ruins shaking.
 
-![1000017758](https://github.com/user-attachments/assets/4449c965-0e35-46e4-9ab9-ae48c1f63101) # Prompt: Anime style, close-up Oblivion laugh, guttural echo, menacing arrogance.
+![1000017769](https://github.com/user-attachments/assets/5da3f901-f4c5-4319-8ebc-6a1b962b55be) # Scene: Anime style, Oblivion (massive spiky violet-black, red eyes) emerging from rift, aura consuming light, ruins shaking.
+
+![1000017758](https://github.com/user-attachments/assets/4449c965-0e35-46e4-9ab9-ae48c1f63101)
+
+![1000017865](https://github.com/user-attachments/assets/7f5d20e1-7a9a-4a1c-b738-8d06a417ef99)# Scene: Anime style, close-up Oblivion laugh, guttural echo, menacing arrogance.
 
 **OBLIVION (LORCAN)** (cold sneer, booming with arrogance)  
 “Turn back? I've ascended beyond your 'balance,' Cassian. The heavens are mine to crush—starting with this pathetic remnant!”  
@@ -301,7 +322,8 @@ In a multi-universal realm, gods of creation and destruction clash, fracturing r
 
 *The struggle spills into merged realms: shattered heavens from multiple universes collide. Lorcan's void attacks tear portals, summoning chaotic entities. Aether Sovereign counters with precise light blasts, but the fraternal bond weighs heavy—each blow a betrayal.*
 
-![1000017770](https://github.com/user-attachments/assets/50f7cafd-f8f8-4429-840e-fcaf959fbea9) # Prompt: Anime style, merged realms with shattered heavens, Lorcan void portals summoning entities, Cassian countering with light blasts, fraternal tension.
+
+![1000017770](https://github.com/user-attachments/assets/50f7cafd-f8f8-4429-840e-fcaf959fbea9) # Scene: Anime style, merged realms with shattered heavens, Lorcan void portals summoning entities, Cassian countering with light blasts, fraternal tension.
 
 **(SOUND: Dimensional explosions, roars from void beasts. Epic theme surges.)**
 
@@ -316,7 +338,13 @@ The clash was no mere explosion; it was a wound in Aetheria's heart. Oblivion's 
 
 *The battle ignites fully: allied gods from other universes join briefly, but Lorcan's unbreakable might overwhelms, pushing heavens toward final collapse.*
 
-![1000017771](https://github.com/user-attachments/assets/84974d0e-52d9-47c0-a574-e43d06f700b9) # Prompt: Anime style, Aether Sovereign dodging void wave, universes bowing, intense eternal struggle.
+![1000017771](https://github.com/user-attachments/assets/84974d0e-52d9-47c0-a574-e43d06f700b9) 
+
+![1000017876](https://github.com/user-attachments/assets/eeaf4311-427d-4e39-a85b-0355b4c9770d)
+
+<img width="1024" height="1024" alt="1000017772" src="https://github.com/user-attachments/assets/eb3935b4-8519-44df-bbfb-840240984e67" />
+
+# Scene: Anime style, Aether Sovereign dodging void wave, universes bowing, intense eternal struggle.
 
 **Story**
 
@@ -330,7 +358,7 @@ Swash Bang Bang Bang BANGGGGGG!!! A brittle silence followed the rupture. Cassia
 
 *Aether Sovereign channels his fire-blue eyes' power—remnant of the Wellspring—creating a crystalline shield. Lorcan hammers it with entropy fists, cracks spreading like veins across realities. Below, on Earth, faint awakenings stir (foreshadowing Jax, Kael, Banner).*
 
-![1000017773](https://github.com/user-attachments/assets/da6f1ed2-7fa3-44aa-998a-81fcd668f13e) # Prompt: Anime style, Aether Sovereign creating crystalline shield with fire-blue eyes, Lorcan hammering with entropy fists, reality veins cracking, Earth below awakening.
+![1000017773](https://github.com/user-attachments/assets/da6f1ed2-7fa3-44aa-998a-81fcd668f13e) # Scene:  Aether Sovereign creating crystalline shield with fire-blue eyes, Lorcan switching back and forth between base form and Transfermation starts hammering with entropy fists, reality veins cracking, Earth below awakening.
 
 **(SOUND: Crystalline chimes shatter under growls. Universal groans echo.)**
 
@@ -347,8 +375,11 @@ Swash Bang Bang Bang BANGGGGGG!!! A brittle silence followed the rupture. Cassia
 **EXT. FALLING HEAVENS - CLIMAX (18:00–21:00)**  
 
 *Heavens plummet fully—Lorcan's might realized. Aether Sovereign rallies for one final stand, merging with residual Aether to counter. The eternal struggle peaks: light vs. void in a reality-warping duel, universes bleeding into one. Lorcan's Energy Grows Past his old Friend even though he has Merged with Oblivion fully. His body starts to transform showing his new form as he grows strong. Both start transforming even their clothes and hair start to change.*
+<img width="1024" height="1024" alt="1000017854" src="https://github.com/user-attachments/assets/e86fbe78-3562-4a1d-8e41-cffeba6e794d" />
 
-![1000017775](https://github.com/user-attachments/assets/e75dfdc0-dc3a-48f3-9696-5388801f81cd) # Prompt: Anime style, heavens plummeting, Aether Sovereign merging with residual Aether, Lorcan transforming with growing energy, light vs void duel, universes bleeding.
+<img width="1024" height="1024" alt="1000017852" src="https://github.com/user-attachments/assets/39ec2b28-e43e-4c87-962f-74229d74bdbf" />
+
+![1000017775](https://github.com/user-attachments/assets/e75dfdc0-dc3a-48f3-9696-5388801f81cd) # Scene: Anime style, heavens plummeting, Aether Sovereign merging with residual Aether, Lorcan transforming with growing energy, light vs void duel, universes bleeding.
 
 **(SOUND: Deafening roars, dimensional tears. Climactic orchestral peak.)**
 
@@ -367,6 +398,13 @@ Swash Bang Bang Bang BANGGGGGG!!! A brittle silence followed the rupture. Cassia
 *The clash fades; heavens stabilize momentarily as a ruin. Lorcan is repelled into the void, but his seed of Oblivion plants—leading to Heavenfall. Aether Sovereign weakens, gazing below.* The Heavens Have Fallen and all of the Gods where now Spread across the Universe Lost looking for a Mortal host to fulfill their wills. over 6Billion Gods where now coming from the stars some infused with OBLIVION essence as its always seeking new Host. 
 
 **(SOUND: Fading reverberation. Narrator overlay.)**
+
+![1000017853](https://github.com/user-attachments/assets/4dad81c8-6ece-426b-866f-7acc835a297b)
+
+![1000017856](https://github.com/user-attachments/assets/3928a742-ca21-4f1c-b62b-57354cc2d98e)
+
+<img width="1024" height="1024" alt="1000017854" src="https://github.com/user-attachments/assets/48bd853e-1c18-4a7e-9bb3-a79d59df8709" />
+
 
 **NARRATOR (V.O.)** (solemn)  
 “The fraternal struggle ignites eternal war. Heavens fall, universes clash—and below, mortals awaken to the Godshift.”  At this time Oblivion And Lorcan have fully merged along with Cassian and the Sovereign their mortal form has shed while their spiritual universe battle spill into an unexpected universe.
