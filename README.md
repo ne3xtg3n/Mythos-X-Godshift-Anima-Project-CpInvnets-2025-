@@ -1,8 +1,6 @@
 # Mythos X: Godshift Miltivers
 **Christopher Perry – October 29, 2025**
 
-
-
 ---
 
 > **“Before the fall, there was the fracture.  
